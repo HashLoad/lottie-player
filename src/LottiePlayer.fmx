@@ -1,0 +1,12 @@
+object LottiePlayer: TLottiePlayer
+  Left = 0
+  Top = 0
+  Border.Styling = False
+  BorderStyle = None
+  ClientHeight = 137
+  ClientWidth = 223
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop, iPhone, iPad]
+  DesignerMasterStyle = 0
+end
