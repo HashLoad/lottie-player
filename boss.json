@@ -1,0 +1,13 @@
+{
+	"name": "Lottie files\r",
+	"description": "",
+	"version": "1.0.0",
+	"private": false,
+	"homepage": "",
+	"mainsrc": "src/",
+	"supported": "xe+",
+	"projects": [
+		"LottiePlayer.dproj"
+	],
+	"dependencies": {}
+}
